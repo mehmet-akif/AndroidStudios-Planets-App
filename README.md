@@ -7,7 +7,6 @@ This Android application, named "Planet App," serves as an informational guide a
 ## Screenshots/GIFs
 ![Planet App Demo](planet-ss1.png)
 ![Planet App Demo](planet-ss2.png)
-![Planet App Demo](planet-ss3.png)
 
 ## Features
 - Information about various planets in space
