@@ -5,9 +5,9 @@
 This Android application, named "Planet App," serves as an informational guide about planets in space. Users can navigate through different planets by clicking the "Next" button, which opens a new page displaying a header, picture, and detailed information specific to each planet.
 
 ## Screenshots/GIFs
-![Planet App Demo](path_to_your_planet_app_image.png)
-![Planet App Demo](path_to_your_planet_app_image.png)
-![Planet App Demo](path_to_your_planet_app_image.png)
+![Planet App Demo](planet-ss1.png)
+![Planet App Demo](planet-ss2.png)
+![Planet App Demo](planet-ss3.png)
 
 ## Features
 - Information about various planets in space
